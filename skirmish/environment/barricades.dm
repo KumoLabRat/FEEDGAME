@@ -1,0 +1,102 @@
+mob/player
+	var/tmp/pushing = 0
+	Bump(atom/a)
+		..()
+		if(kb_init)
+			kb_init = 0
+			if(istype(a, /mob/player) || istype(a, /mob/npc))
+				a:knockback(12, get_dir(src, a))
+			if(istype(a, /obj/barricade/crate))
+				var/obj/barricade/crate/c = a
+				c.Break()
+			if(prob(25)) stun()
+
+		if(class == TANK && charging)
+			if(istype(a, /mob/npc/hostile))
+				a:knockback(25, get_dir(src, a))
+				a:edit_health(-50, src)
+		if(sprinting && istype(a, /obj/barricade/crate) && !a:broken && !pushing)
+			var/obj/barricade/crate/c = a
+			c.Break()
+		if(istype(a, /obj/barricade) && !a:broken && !pushing)
+			pushing 				= 1
+			var/obj/barricade/b 	= a
+			b.last_pusher 			= src
+			var/tmp/list/push_group	= new/list()
+			push_group += b
+			. = b
+			top
+			if(push_group.len < 3) for(var/obj/barricade/c in bounds(., 1))
+				if(get_dir(.,c) == dir)
+					c.last_pusher = src
+					push_group += c
+					. = c
+					goto top
+			if(push_group.len > 1)
+				while(push_group.len)
+					var/obj/barricade/d = push_group[push_group.len]
+					if(step(d, dir))
+						if(!d.no_dust) spawn d.dust()
+					push_group.Remove(d)
+			else if(step(b, dir))
+				if(!b.no_dust) spawn b.dust()
+				if(b.rolls) for(var/i = step_size*2, i > 0, i--)
+					if(step(b, b.dir, i))
+						sleep world.tick_lag
+					else break
+			pushing = 0
+		if(ismob(a))
+			a:knockback(8, get_dir(src, a))
+			if(on_fire) a:burn()
+
+obj
+	barricade
+		icon		= '32x32.dmi'
+		density		= 1
+		layer		= TURF_LAYER+0.3
+		step_size	= 2
+		d_ignore	= 1
+		var/tmp
+			mob/last_pusher
+			broken 	= 0
+			no_dust	= 0	// 1 if no dust when pushing
+			rolls	= 0
+		cone
+			icon_state	= "cone1"
+		crate
+			icon_state	= "crate1"
+			proc
+				Break()
+					if(!broken)
+						broken = 1
+						animate(src, pixel_y = 8, time = 1)
+						animate(pixel_y = 0, time = 1)
+						sleep 2
+						icon_state	= "crate1-broke"
+						density		= 0
+						for(var/i = 0, i < 6, i++)
+							dust()
+						if(prob(50)) drop_loot()
+						ReSpawn(10)
+
+				ReSpawn(var/i = 5)
+					set waitfor = 0
+					toploop
+					sleep i*10
+					for(var/atom/a in initial(loc))
+						if(a.density) goto toploop
+					animate(src, alpha = 0, time = 3, loop = 1)
+					icon_state	= "crate1"
+					loc 		= initial(loc)
+					pixel_y		= 128
+					density		= 1
+					animate(src, alpha = 255, pixel_y = 0, easing = BOUNCE_EASING, time = 5, loop = 1)
+					broken 		= 0
+
+		cart
+			icon			= '32x32.dmi'
+			icon_state		= "cart1"
+			density			= 1
+			d_ignore		= 1
+			no_dust			= 1
+			rolls			= 1

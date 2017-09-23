@@ -1,0 +1,321 @@
+"aa" = (/turf/terrain/interiors/black,/turf/grass,/area)
+"ab" = (/turf/terrain/interiors/black,/obj/markers/opacity,/turf/grass,/area)
+"ac" = (/turf/terrain/pond/p7,/turf/grass,/area)
+"ad" = (/turf/terrain/pond,/turf/grass,/area)
+"ae" = (/turf/terrain/pond,/turf/terrain/pond,/turf/grass,/area)
+"af" = (/turf/terrain/pond/p3,/turf/grass,/area)
+"ag" = (/turf/terrain/pond/p4,/turf/grass,/area)
+"ah" = (/turf/terrain/pond,/turf/terrain/pond/p6,/turf/grass,/area)
+"ai" = (/turf/grass,/area)
+"aj" = (/turf/terrain/tree,/turf/grass,/area)
+"ak" = (/obj/markers/dense,/turf/grass,/area)
+"al" = (/turf/terrain/grass_edges/e6,/turf/dirt,/area)
+"am" = (/turf/terrain/grass_edges/e5,/turf/dirt,/area)
+"an" = (/turf/terrain/grass_edges/e7,/turf/dirt,/area)
+"ao" = (/turf/dirt,/area)
+"ap" = (/obj/markers/vendor_spawn,/turf/dirt,/area)
+"aq" = (/turf/terrain/grass_edges/e8,/turf/dirt,/area)
+"ar" = (/turf/terrain/grass_edges/e1,/turf/dirt,/area)
+"as" = (/turf/terrain/grass_edges/e2,/turf/dirt,/area)
+"at" = (/turf/terrain/hedge_l,/turf/grass,/area)
+"au" = (/turf/terrain/hedge,/turf/grass,/area)
+"av" = (/turf/terrain/hedge_r,/turf/grass,/area)
+"aw" = (/obj/markers/vendor_spawn,/turf/grass,/area)
+"ax" = (/turf/terrain/grass_edges/e3,/turf/dirt,/area)
+"ay" = (/turf/terrain/grass_edges/e4,/turf/dirt,/area)
+"az" = (/turf/grass,/turf/terrain/interiors/black,/turf/wall_frame/w2,/area)
+"aA" = (/turf/grass,/turf/terrain/interiors/black,/turf/wall_frame/w3,/area)
+"aB" = (/obj/markers/opacity,/turf/grass,/area)
+"aC" = (/turf/grass,/turf/terrain/interiors/black,/obj/markers/opacity,/turf/wall_frame/w3,/area)
+"aD" = (/turf/grass,/obj/markers/dense,/turf/terrain/interiors/black,/turf/wall_frame/w2,/area)
+"aE" = (/turf/terrain/interiors/wall1,/turf/grass,/area)
+"aF" = (/turf/terrain/interiors/wall1,/turf/terrain/interiors/mold,/turf/grass,/area)
+"aG" = (/turf/grass,/obj/markers/dense,/turf/terrain/interiors/black,/turf/wall_frame/w3,/area)
+"aH" = (/turf/terrain/interiors/black,/turf/terrain/interiors/black,/turf/grass,/area)
+"aI" = (/turf/terrain/interiors/wall1,/obj/markers/opacity,/turf/grass,/area)
+"aJ" = (/turf/terrain/grass_edges/e5,/turf/terrain/_breakable/wall1{name = "wall1 opacity"; opacity = 1},/turf/wooden_floor,/area)
+"aK" = (/turf/carpet,/turf/wall_frame/shadow,/area)
+"aL" = (/turf/carpet,/turf/terrain/interiors/screen,/turf/wall_frame/shadow,/area)
+"aM" = (/turf/terrain/pond/p10,/turf/grass,/area)
+"aN" = (/turf/terrain/pond/p11,/turf/grass,/area)
+"aO" = (/turf/terrain/pond/p12,/turf/grass,/area)
+"aP" = (/turf/carpet,/area)
+"aQ" = (/obj/markers/vendor_spawn,/turf/carpet,/area)
+"aR" = (/obj/markers/enemy_spawn,/turf/carpet,/area)
+"aS" = (/turf/terrain/pond/p8,/turf/grass,/area)
+"aT" = (/obj/barricade/barrel,/turf/carpet,/area)
+"aU" = (/turf/terrain/details/bottle,/turf/carpet,/area)
+"aV" = (/turf/terrain/details/paper,/obj/markers/enemy_spawn,/turf/carpet,/area)
+"aW" = (/obj/markers/rain_spawn,/turf/carpet,/area)
+"aX" = (/turf/terrain/details/paper,/turf/carpet,/area)
+"aY" = (/turf/terrain/pond,/turf/terrain/pond/p2,/turf/grass,/area)
+"aZ" = (/turf/terrain/pentagram,/turf/carpet,/area)
+"ba" = (/turf/terrain/seat,/turf/carpet,/area)
+"bb" = (/turf/terrain/pond/p5,/turf/grass,/area)
+"bc" = (/obj/item/health_pack,/turf/carpet,/area)
+"bd" = (/obj/item/revive_pack,/turf/carpet,/area)
+"be" = (/turf/terrain/pond,/turf/terrain/pond/p13,/turf/grass,/area)
+"bf" = (/turf/terrain/interiors/mold,/obj/markers/enemy_spawn,/turf/carpet,/area)
+"bg" = (/turf/terrain/details/bottle,/obj/markers/enemy_spawn,/turf/carpet,/area)
+"bh" = (/turf/terrain/details/paper,/obj/markers/rain_spawn,/turf/carpet,/area)
+"bi" = (/turf/carpet,/obj/hazard/edge_spike,/turf/wall_frame/shadow,/area)
+"bj" = (/turf/carpet,/turf/terrain/details/grass_sprouts,/obj/hazard/edge_spike,/turf/wall_frame/shadow,/area)
+"bk" = (/turf/terrain/details/grass_sprouts,/obj/markers/enemy_spawn,/turf/carpet,/area)
+"bl" = (/turf/terrain/newspaper,/turf/carpet,/area)
+"bm" = (/turf/wooden_floor,/area)
+"bn" = (/turf/terrain/details/grass_sprouts,/turf/carpet,/area)
+"bo" = (/turf/terrain/details/grass_sprouts,/turf/terrain/details/grass_sprouts,/turf/carpet,/area)
+"bp" = (/turf/terrain/details/grass_sprouts,/turf/terrain/interiors/mold,/turf/carpet,/area)
+"bq" = (/turf/carpet/c3,/area)
+"br" = (/turf/terrain/details/grass_sprouts,/obj/markers/rain_spawn,/turf/wooden_floor,/area)
+"bs" = (/obj/markers/rain_spawn,/turf/wooden_floor,/area)
+"bt" = (/obj/item/shield_tier1,/turf/carpet,/area)
+"bu" = (/obj/markers/enemy_spawn,/turf/carpet/c3,/area)
+"bv" = (/turf/terrain/interiors/mold,/obj/markers/enemy_spawn,/turf/wooden_floor,/area)
+"bw" = (/turf/terrain/details/grass_sprouts,/turf/wooden_floor,/area)
+"bx" = (/turf/terrain/details/grass_sprouts,/obj/barricade/barrel,/turf/carpet,/area)
+"by" = (/turf/terrain/details/grass_sprouts,/turf/terrain/details/grass_sprouts,/obj/markers/enemy_spawn,/turf/carpet,/area)
+"bz" = (/obj/barricade/barrel,/turf/wooden_floor,/area)
+"bA" = (/turf/carpet/c6,/area)
+"bB" = (/obj/markers/rain_spawn,/turf/carpet/c6,/area)
+"bC" = (/turf/terrain/details/grass_sprouts,/obj/markers/enemy_spawn,/turf/wooden_floor,/area)
+"bD" = (/obj/barricade/barrel,/obj/markers/enemy_spawn,/turf/carpet,/area)
+"bE" = (/obj/markers/enemy_spawn,/turf/wooden_floor,/area)
+"bF" = (/obj/hazard/edge_spike{dir = 1},/turf/carpet,/area)
+"bG" = (/obj/markers/enemy_spawn,/turf/carpet/c6,/area)
+"bH" = (/obj/markers/dense,/turf/terrain/interiors/black,/turf/grass,/area)
+"bI" = (/turf/grass,/obj/markers/dense,/turf/terrain/interiors/black,/turf/wall_frame/w4,/area)
+"bJ" = (/turf/tile,/area)
+"bK" = (/turf/grass,/turf/wall_frame/w2,/obj/markers/dense,/turf/terrain/interiors/black,/turf/wall_frame/w4,/area)
+"bL" = (/turf/terrain/concession/c6,/turf/carpet,/area)
+"bM" = (/turf/terrain/concession/c8,/turf/carpet,/area)
+"bN" = (/turf/terrain/rope_line/r4,/turf/carpet,/area)
+"bO" = (/turf/terrain/rope_line/r5,/turf/carpet,/area)
+"bP" = (/turf/terrain/rope_line/r3,/turf/carpet,/area)
+"bQ" = (/turf/grass,/turf/wall_frame/w4,/obj/markers/dense,/turf/terrain/interiors/black,/turf/wall_frame/w3,/area)
+"bR" = (/turf/grass,/turf/wall_frame/w4,/obj/markers/dense,/turf/terrain/interiors/black,/turf/wall_frame/w2,/area)
+"bS" = (/obj/markers/dense,/turf/terrain/interiors/black,/obj/markers/opacity,/turf/grass,/area)
+"bT" = (/obj/barricade/crate,/turf/tile,/area)
+"bU" = (/obj/barricade/barrel,/turf/tile,/area)
+"bV" = (/turf/terrain/concession/c5,/turf/carpet,/area)
+"bW" = (/turf/terrain/concession/c7,/turf/carpet,/area)
+"bX" = (/turf/terrain/rope_line/b2,/turf/carpet,/area)
+"bY" = (/turf/terrain/rope_line,/turf/carpet,/area)
+"bZ" = (/obj/markers/enemy_spawn,/turf/carpet/c7,/area)
+"ca" = (/obj/barricade/crate,/turf/carpet,/area)
+"cb" = (/turf/terrain/interiors/wall2,/turf/grass,/area)
+"cc" = (/turf/terrain/interiors/wall2,/obj/markers/opacity,/turf/grass,/area)
+"cd" = (/turf/terrain/grass_edges/e5,/turf/terrain/_breakable/wall2{name = "wall2 opacity"; opacity = 1},/turf/wooden_floor,/area)
+"ce" = (/turf/tile,/turf/wall_frame/shadow,/area)
+"cf" = (/turf/tile,/obj/markers/vendor_spawn,/turf/wall_frame/shadow,/area)
+"cg" = (/turf/tile,/turf/terrain/interiors/sink,/turf/wall_frame/shadow,/area)
+"ch" = (/turf/tile,/obj/item/shield_tier3,/turf/wall_frame/shadow,/area)
+"ci" = (/turf/terrain/rope_line/r5,/obj/barricade/crate,/turf/carpet,/area)
+"cj" = (/turf/terrain/rope_line/r3,/obj/barricade/crate,/turf/carpet,/area)
+"ck" = (/turf/terrain/newspaper,/turf/tile,/area)
+"cl" = (/turf/terrain/interiors/potty,/turf/tile,/area)
+"cm" = (/turf/terrain/interiors/mold,/turf/tile,/area)
+"cn" = (/turf/terrain/interiors/mold,/turf/big_tile,/area)
+"co" = (/turf/big_tile,/area)
+"cp" = (/obj/item/revive_pack,/turf/tile,/area)
+"cq" = (/obj/hazard/spikes,/turf/tile,/area)
+"cr" = (/obj/item/health_pack,/turf/tile,/area)
+"cs" = (/turf/terrain/details/bottle,/turf/tile,/area)
+"ct" = (/obj/markers/vendor_spawn,/turf/tile,/area)
+"cu" = (/obj/item/health_pack,/turf/big_tile,/area)
+"cv" = (/turf/carpet/c7,/area)
+"cw" = (/obj/markers/enemy_spawn,/turf/carpet/c8,/area)
+"cx" = (/turf/facility_wall/blackwall,/area)
+"cy" = (/turf/facility_wall/line,/area)
+"cz" = (/turf/facility_wall/wall,/area)
+"cA" = (/turf/terrain/details/grass_sprouts,/obj/markers/enemy_spawn,/turf/carpet/c5,/area)
+"cB" = (/obj/markers/enemy_spawn,/turf/carpet/c5,/area)
+"cC" = (/turf/terrain/details/grass_sprouts,/obj/markers/enemy_spawn,/turf/carpet/c8,/area)
+"cD" = (/turf/terrain/details/painting,/turf/facility_wall/wall,/area)
+"cE" = (/turf/facility_wall,/area)
+"cF" = (/turf/wooden_floor,/turf/terrain/column,/turf/terrain/details/grass_sprouts,/turf/wall_frame/shadow,/area)
+"cG" = (/turf/wooden_floor,/turf/terrain/grass_edges/e2,/obj/markers/dense,/turf/wall_frame/shadow,/area)
+"cH" = (/turf/wooden_floor,/turf/terrain/grass_edges/e2,/turf/terrain/column,/turf/terrain/details/grass_sprouts,/turf/wall_frame/shadow,/area)
+"cI" = (/turf/wooden_floor,/turf/terrain/details/grass_sprouts,/turf/wall_frame/shadow,/area)
+"cJ" = (/turf/wooden_floor,/turf/terrain/grass_edges/e8,/turf/terrain/details/grass_sprouts,/turf/wall_frame/shadow,/area)
+"cK" = (/turf/terrain/grass_edges/e1,/turf/wooden_floor,/area)
+"cL" = (/turf/terrain/details/red_flowers,/turf/grass,/area)
+"cM" = (/turf/terrain/grass_edges/e3,/turf/terrain/details/grass_sprouts,/turf/wooden_floor,/area)
+"cN" = (/turf/tile,/obj/barricade/crate,/turf/wall_frame/shadow,/area)
+"cO" = (/turf/terrain/pentagram,/turf/tile,/area)
+"cP" = (/turf/terrain/tree2,/turf/terrain/details/blue_flowers,/turf/grass,/area)
+"cQ" = (/turf/terrain/tombstone,/turf/grass,/area)
+"cR" = (/turf/terrain/details/red_flowers,/obj/markers/vendor_spawn,/turf/grass,/area)
+"cS" = (/turf/terrain/grass_edges/e8,/turf/wooden_floor,/area)
+"cT" = (/turf/terrain/details/grass_sprouts,/turf/grass,/area)
+"cU" = (/turf/terrain/details/blue_flowers,/turf/grass,/area)
+"cV" = (/turf/terrain/grass_edges/e3,/turf/wooden_floor,/area)
+"cW" = (/turf/terrain/details/red_flowers,/turf/terrain/pentagram,/turf/grass,/area)
+"cX" = (/turf/carpet/c5,/area)
+"cY" = (/turf/terrain/grass_edges/e6,/turf/wooden_floor,/area)
+"cZ" = (/turf/terrain/grass_edges/e5,/turf/terrain/details/grass_sprouts,/turf/terrain/pentagram,/turf/wooden_floor,/area)
+"da" = (/turf/terrain/grass_edges/e5,/turf/wooden_floor,/area)
+"db" = (/turf/terrain/grass_edges/e5,/turf/terrain/details/bottle,/turf/wooden_floor,/area)
+"dc" = (/turf/terrain/details/painting,/turf/grass,/area)
+"dd" = (/turf/terrain/rope_line/r4,/obj/barricade/crate,/turf/carpet,/area)
+"de" = (/turf/terrain/details/grass_sprouts,/obj/markers/enemy_spawn,/turf/carpet/c6,/area)
+"df" = (/turf/carpet,/turf/terrain/details/bottle,/turf/wall_frame/shadow,/area)
+"dg" = (/turf/carpet,/obj/barricade/barrel,/turf/wall_frame/shadow,/area)
+"dh" = (/turf/carpet,/obj/item/shield_tier2,/turf/wall_frame/shadow,/area)
+"di" = (/turf/terrain/concession/c6,/turf/terrain/details/bottle,/turf/carpet,/area)
+"dj" = (/turf/terrain/concession/c2,/turf/carpet,/area)
+"dk" = (/turf/terrain/interiors/wall1,/turf/terrain/payphone,/obj/markers/opacity,/turf/grass,/area)
+"dl" = (/turf/terrain/interiors/wall1,/turf/terrain/payphone{layer = 9},/obj/markers/opacity,/turf/grass,/area)
+"dm" = (/turf/terrain/_breakable/wall1{name = "wall1 opacity"; opacity = 1},/turf/wooden_floor,/area)
+"dn" = (/turf/terrain/concession,/turf/carpet,/area)
+"do" = (/turf/terrain/concession/c5,/turf/terrain/concession,/turf/carpet,/area)
+"dp" = (/turf/grass,/turf/wall_frame/w3,/obj/markers/dense,/turf/terrain/interiors/black,/turf/wall_frame/w4,/area)
+"dq" = (/turf/carpet/c2,/turf/wall_frame/shadow,/area)
+"dr" = (/turf/carpet/c4,/obj/markers/vendor_spawn,/turf/wall_frame/shadow,/area)
+"ds" = (/turf/carpet/c5,/turf/terrain/details/bottle,/turf/wall_frame/shadow,/area)
+"dt" = (/turf/wooden_floor,/turf/terrain/interiors/arcade2,/turf/wall_frame/shadow,/area)
+"du" = (/turf/wooden_floor,/turf/wall_frame/shadow,/area)
+"dv" = (/turf/wooden_floor,/turf/terrain/interiors/arcade1,/turf/wall_frame/shadow,/area)
+"dw" = (/turf/wooden_floor,/turf/terrain/details/bottle,/turf/wall_frame/shadow,/area)
+"dx" = (/turf/wooden_floor,/turf/terrain/interiors/arcade3,/turf/wall_frame/shadow,/area)
+"dy" = (/turf/wooden_floor,/obj/barricade/barrel,/turf/wall_frame/shadow,/area)
+"dz" = (/turf/carpet/c6,/obj/barricade/barrel,/turf/wall_frame/shadow,/area)
+"dA" = (/turf/carpet,/obj/markers/vendor_spawn,/turf/wall_frame/shadow,/area)
+"dB" = (/turf/carpet/c9,/area)
+"dC" = (/turf/terrain/details/bottle,/turf/wooden_floor,/area)
+"dD" = (/turf/grass,/turf/wall_frame/w3,/area)
+"dE" = (/turf/grass,/turf/wall_frame/w2,/area)
+"dF" = (/turf/terrain/newspaper,/turf/wooden_floor,/area)
+"dG" = (/obj/markers/enemy_spawn,/turf/carpet/c9,/area)
+"dH" = (/turf/grass,/turf/terrain/interiors/wall1,/turf/wall_frame/w3,/area)
+"dI" = (/turf/grass,/turf/terrain/interiors/wall1,/turf/wall_frame/w2,/area)
+"dJ" = (/obj/markers/rain_spawn,/turf/carpet/c5,/area)
+"dK" = (/obj/barricade/cone,/turf/tile,/area)
+"dL" = (/obj/markers/player_spawn,/turf/carpet,/area)
+"dM" = (/obj/markers/dense,/turf/wooden_floor,/area)
+"dN" = (/obj/barricade/cone,/turf/carpet,/area)
+"dO" = (/turf/terrain/details/grass_sprouts,/obj/markers/dense,/turf/wooden_floor,/area)
+"dP" = (/obj/markers/player_spawn,/turf/carpet/c3,/area)
+"dQ" = (/turf/terrain/newspaper,/obj/markers/enemy_spawn,/turf/carpet,/area)
+"dR" = (/turf/terrain/details/grass_sprouts,/obj/markers/rain_spawn,/turf/carpet,/area)
+"dS" = (/turf/terrain/interiors/air_hockey,/turf/wooden_floor,/area)
+"dT" = (/turf/terrain/pentagram,/obj/markers/player_spawn,/turf/carpet,/area)
+"dU" = (/obj/markers/player_spawn,/turf/wooden_floor,/area)
+"dV" = (/obj/markers/vendor_spawn,/turf/wooden_floor,/area)
+"dW" = (/turf/carpet/c8,/area)
+"dX" = (/turf/terrain/ticket_booth/t8,/turf/grass,/area)
+"dY" = (/turf/terrain/ticket_booth/t9,/turf/grass,/area)
+"dZ" = (/turf/terrain/ticket_booth/t10,/turf/grass,/area)
+"ea" = (/turf/terrain/interiors/wall1,/turf/terrain/ticket_booth/t4{layer = 6},/turf/grass,/area)
+"eb" = (/turf/terrain/interiors/wall1,/turf/terrain/ticket_booth/t5,/turf/grass,/area)
+"ec" = (/turf/terrain/interiors/wall1,/turf/terrain/ticket_booth/t5,/turf/terrain/ticket_booth/t11,/turf/grass,/area)
+"ed" = (/turf/terrain/interiors/wall1,/turf/terrain/ticket_booth/t5,/turf/terrain/ticket_booth/t7,/turf/grass,/area)
+"ee" = (/turf/terrain/interiors/wall1,/turf/terrain/ticket_booth/t5,/turf/terrain/ticket_booth/t11,/turf/terrain/ticket_booth/t12,/turf/grass,/area)
+"ef" = (/turf/terrain/interiors/wall1,/turf/terrain/ticket_booth/t5,/turf/terrain/ticket_booth/t12,/turf/grass,/area)
+"eg" = (/turf/terrain/interiors/wall1,/turf/terrain/ticket_booth/t6,/turf/grass,/area)
+"eh" = (/turf/carpet,/turf/terrain/ticket_booth,/turf/wall_frame/shadow,/area)
+"ei" = (/turf/carpet,/turf/terrain/ticket_booth/t2,/turf/wall_frame/shadow,/area)
+"ej" = (/turf/carpet,/turf/terrain/ticket_booth/t3,/turf/wall_frame/shadow,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaacadadadadadadadadadadadadadadadadadadadadadadadadadadaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaacadadadadadadadadadadadadadadadadadadadadadadadadadadaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaacadadadadadadadadadadadadadadadadadadadadadadadadadadaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaafagagagagagagagagagagagagagagagagagahadadadadadadadadaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiacadadadadadadadadaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaiaiaiaiaiaiaiaiaiajaiakakaiacadadadadadadadadaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaiaialamamanaiaiaiaiaiaiaiaiacadadadadadadadadaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaialamaoapaoaoamanaiaiaiaiaiaiacadadadadadadadadaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaqaoaoaoaoaoaoaraiaiaiaiaiaiacadadadadadadadadaeae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaiaqasasasasaraiaiaiaiaiaiaiafagagagagagagagahadad
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiajaiakakaiaiaiaiaiaiaiaiaiaiaiaiajaiakakatauauauavacadad
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiacadad
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaiaiaiaiaiaiaiaiawaiaiaiaialamamanaiaiaiaiaiacadad
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaqasasaoanaiaiaiaiacadad
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaxayaiaiaiaiacadae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaiaiaiaiaiajaiakakaiaiaialamanaiaxayaiaiaiaiacadae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaqaoayaiaqaraiaiaiaiacadae
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaiaiaaaaaaaaaaaaaaaaaaaaaaaaaaaiaiaxayaiaiaiaiaiaiaiafahad
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababaaaiaiaaababababababababaaaaaaaaaiaiaqaraiaiaiaiaiaiaiaiacad
+aaaaaaaaaaaaaaaaaaaaazaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaAaaazaiaiaiaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaBaiaiaBaBaBaBaCababababaaaaaaaaaiaiaiaiaiaiaiaiaiaiaiaiacad
+aaaaaaaaaaaaaaaaaaaaaDaEaEaEaFaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaGaHaDaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaIaJaJaIaEaEaEaGaaaaaaabaaaaaaaaatauauauauavaiaiaialanaiacad
+aaaaaaaaaaaaaaaaaaaaaDaKaKaKaKaKaKaKaKaLaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaGaHaDaKaKaKaKaKaKaKaLaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaGaaaaaaabaaaaaaaaaMaNaNaNaNaNaOaiaiaxayaiacad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaQaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaRaRaPaGaHaDaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaacadadadadadaSaialaoaraiacad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaTaPaPaPaPaPaPaPaPaPaPaRaRaRaRaRaPaPaPaPaPaPaPaUaRaRaPaGaHaDaPaPaPaTaPaTaPaPaRaRaRaPaPaPaPaPaPaPaPaPaRaRaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaacadadadadadaSaiaxayaiaiacad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaTaTaTaPaPaPaPaPaPaPaPaPaRaRaRaRaRaPaPaPaPaPaPaPaPaRaRaPaGaHaDaPaPaPaPaTaPaPaPaRaRaRaPaPaPaPaPaPaPaPaPaRaRaPaPaPaPaTaPaTaPaPaPaPaGaaaaaaabaaaaaaaaacadadadadadaSaiaqaraiaiacad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaUaTaPaPaPaVaRaRaRaRaPaWaRaRaRaRaRaRaRaRaPaPaTaPaPaRaRaPaGaHaDaPaPaPaTaPaTaPaPaRaRaRaPaPaPaPaPaPaPaPaPaPaPaRaRaRaPaPaTaPaPaPaPaPaGaaaaaaabaaaaaaaaacadadadadadaSaiaiaiaiaiacad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaRaRaRaRaRaPaPaRaRaRaRaRaRaRaRaPaTaTaTaPaRaRaPaGaHaDaPaPaXaPaPaPaPaPaRaRaRaRaPaPaPaPaPaPaPaPaPaPaVaRaRaPaTaPaTaPaPaPaPaGaaaaaaabaaaaaaaaacadadadadadaSaiaiaiaiaiacad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaRaRaRaRaRaPaPaPaPaPaPaPaPaPaPaPaPaTaPaPaRaRaPaGaHaDaPaPaPaWaPaWaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaRaRaRaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaacadadadadadaYaOaiaiaiaiacad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaPaPaPaPaPaPaPaRaRaRaRaRaRaRaRaRaPaPaPaPaRaRaPaGaHaDaPaPaPaPaPaPaPaPaPaPaPaPaZaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaacadadadaeaeadaSaiaiaiaiacad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaWaPaPaPaPaPaPaPaPaPaRaRaRaRaRaRaRaRaRaPaPaPaPaPaPaPaGaHaDaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaacadadadaeaeadaSaiaiaiaiacad
+aaaaaaaaaaaaaaaaaaaaaDbababaaPbaaPbababababaaPbaaPaRaRaRaRaPbababaaPbabaaPaPbababaaGaHaDaPbababababaaPaPbabababaaPaRaRaRaRaPaTbabaaPbababababaaPbababaaPbaaGaaaaaaabaaaaaaaaafagagahadadadaSaiaiaiaiacad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaPaRaRaRaRaPaPaRaRaRaRaRaRaRaRaRaRaRaRaRaRaPaPaGaHaDaPaPaPaPaPaPaPaPaPaPaPaPaPaRaRaRaRaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaiaiacadadadaSaiaiaiaiacad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaPaRaRaRaRaPaPaRaRaRaRaRaRaRaRaRaRaRaRaRaRaPaPaGaHaDaPaPaPaPaPaPaPaPaPaPaPaPaPaRaRaRaRaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaiaiafagagagbbaiaiaiaiacad
+aaaaaaaaaaaaaaaaaaaaaDbaaPbababababcbabaaPbababaaPaRaRaRaRaPaUbababababaaPbabababaaGaHaDbababaaQbababababdbabaaUaPaRaRaRaRaPbabababababaaPbabaaPbabababaaPaGaaaaaaabaaaaaaaaajaiakakatauavaiaiaiaiaMbead
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaWaWaPaPaRaRaPaRaRbfaRaRaRaRaRaRaPaPaPaWaWaPaPaPaGaHaDaPaPaPaPaPaPaPaPaPaPaPaPaPaRaRaRaRaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaiaiaiawaiaiaiaiaiaiacadad
+aaaaaaaaaaaaaaaaaaaaaDaPaUaPaPaPaPaPaPaPaPaRaRaPaPaRaRaRaRaRaRaRaRaPaPaPaPaPaPaPaPaGaHaDaPaPaPaPaPaPaPaPaPaPaPaPaPaRaRaRaRaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaiaiaialamamamanaiaiacadad
+aaaaaaaaaaaaaaaaaaaaaDbababaaPbaaUbabababababaaTaPaRaRaRaRaPbababaaPbabababaaPbabaaGaHaDbababaaPbababababaaPbabaaPaRaRaRaRaPaUbababdbabababaaPbabababababaaGaaaaaaabaaaaaaaaaiaiaiaiaxaoaoaoayaiaiacadad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaRaRaRaPaPaPaPaPaPaRaRaRaRaPaRaRaRaPaPaPaPaPaPaPaPaGaHaDaPaPaPaPaPaRaRaRaPaPaPaPaPaRaRaRaRaPaPaPaPaPaPaPaPaPaPaPaRaRaPaPaPaGaaaaaaabaaaaaaaaaiaiaialaoaoaoasaraiaiacadad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaRaRaRaPaPaPaPaPaPaRaRaVaRaPaRaRaRaPaPaPaPaPaPaPaPaGaHaDaPaPaPaPaPaRbgaRaPaPaPaPaPaRaRaRaRaPaPaPaPaPaPaWaWaPaPaPaRaRaPaPaPaGaaaaaaabaaaaaaaaaiaiaiaxaoaoayaiaiaiaiacadad
+aaaaaaaaaaaaaaaaaaaaaDbabaaPbababababaaPbabababaaPaRaRaRaRaPbaaPbabababababcbabaaPaGaHaDaPbaaPbababaaPbabababaaPaPaPaPaPaPaPbabababababaaPbababababaaPbabaaGaaaaaaabaaaaaaaaaiaiaiaqasasaraiaiaiaMbeadad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaRaRaRaRaPaPaPaPaPaPaGaHaDaPaPaPaPaRaRaRaRaRaPaPaPaPaPaPaPaPaPaPaPaPaPaPaUaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaiaiaiaiaiaiaiaiaiacadadad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaPaUaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaHaDaPaPaPaPaRaRaRaRaRaPaPaPaPbhaWaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaiaiaiaiaiajaiakakacadadad
+aaaaaaaaaaaaaaaaaaaaaDbaaPbabaaPbababaaPbaaPbabaaPaPaPaWaPaPbababaaPbaaPbabababaaPaGaHaDbabababababaaPbaaPbababaaPaPaPaPaPaPbabaaPbababaaPbaaPbababaaPbabaaGaaaaaaabaaaaaaaaaialanaiaiaiaiaiaMaNbeadadad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaPaPaPaPaPaPaTaPaPaPaPaTaPaPaPaPaPaPaPaPaPaPaPaGaHaDaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaxayaiaiaiaiaiacadadadadad
+aaaaaaaaaaaaaaaaaaaaaDaiaiaiaiaiaiaiaiaiaiaiaiaiaiaRaRaRaRaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaPaPaPaPaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaGaaaaaaabaaaaaaaaaiaxaoamanaiaiaiacadadadadad
+aaaaaaaaaaaaaaaaaaaaaDaEaEaEaEaEaEaEaEaEaEaEaEaEaEaRaRaRaRaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaPaPaPaPaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaGaaaaaaabaaaaaaaaaiaqaoaoayaiaiaiacadadadadad
+aaaaaaaaaaaaaaaaaaaaaDaKbibibibibjbibibibibibibiaKaRaRaRaRaKaKaKaKbibibibibibibibibibibibibibibibibibiaKaKaKaKaKaKaPaPaPaPaKaKbibibibibibibibibibibibibiaKaGaaaaaaabaaaaaaaaaiaiaxaoayaiaiaiacadadadadad
+aaaaaaaaaaaaaaaaaaaaaDaRaRaRaRaRbkaRbkaRaRaRaRaRaPaPaPaPaPaPaPbkbkbkaRaRaRaRaRaRaRaPblaPaPaRaRaRaRaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPbmaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaiaqasaraiaiaiafagahadadad
+aaaaaaaaaaaaaaaaaaaaaDaPaPaPbnbnaPbnaPaPbnbnboaPaPaPbnbnaPaPaPaRaRaRaRaRaRaRaRaRaRaPaPaPaPaRaRaRaRaPaPaPbpaPaPaPaPaPaPaPaPaPaPbqbrbsbrbsbsbqaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaiaiaiaiaiaiaiaiaiacadadad
+aaaaaaaaaaaaaaaaaaaaaDaPaPbnaPaPbnboaPbnaTbnbnbpbnbkaRbkaRaRaRaPaPaPaPaPbtaPaPbnbnaPaPaPaPaRaRaRaRaPaRaRaRaRaRaRaRaRaRaRaRbububvbsbsbwbwbmaPaPaPaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaiaiaiaiaiajaiakakafagagag
+aaaaaaaaaaaaaaaaaaaaaDaPaPbxaPbxbnbxbnbobnaPaPbnbnbybkaRaRaRaRbnaPaPaPaTaPaPaTbpbxaPaTaPaTaRaRaRaRaPbkbkaRaRaRaRaRaRaRaRaRaRaRaRaPbqbmbzbsbsbwbqaPaPaPaPaPaGaaaaaaabaaaaaaaaaiaiaiaiaiaialanajaiakakaiai
+aaaaaaaaaaaaaaaaaaaaaDaPaRaRaRbkbkbkbkbkaRbkbkaRaPaRaRaRaRaRaRaRaRaRaPaRaRaRaRaRaRaRaRaRaRaRaRaRaPaPaRaRaRaRaRaRaRaRaRaRaRaRaRaRbAaPaPbBaPbCbCaRaRbDaPaPaPaGaaaaaaabaaaaaaaaaiaiaiaiaiaiaqaraiaiaiaiaiai
+aaaaaaaaaaaaaaaaaaaaaDaPaRaRaRaRaRbkbkbkaRaRaRaRaPaRaRaRaRaRaRaRaRaRaPaRaRaRaRaRaRaRaRbkbkaRaRaRaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPbAbAaPaPaPaRbEbCaRaRaPaPaPaGaaaaaaabaaaaaaaaaiaiaiaiaiaiaiaiaiaiaiaiaiai
+aaaaaaaaaaaaaaaaaaaaaDaPbFbFbFbFbFbFbFaPaPaPaPaPaPaPaPaPaPbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFbFaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaRaRbGaRaRaPaPaPaGaaaaaaabaaaaaaaaaaaiaiaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaabHbIbIbIbIbIbIbIbIbIbIbJbJbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbKbLbLbLbMaPaPaPbNbObObObPbQbIbRaPaPaPaRaRaRaRaRaPaPaPaGbHbHbHbSbHbHbHbHbHaiaibHbHbHbHbHbHbHaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabHbTbUbHaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaDbVbVbVbWaTaPaPbXaPaPaPbYaGaaaDaPbnaPaRbZaRaRaRaPaPaPaGbHaiaiaBaiaiaiaiaiaiaiaiaiaiaiaiaibHaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabHbTbTaiaiaiaiaiaiaiaiaiaiaiaiaiaiaaaaaaaaaaaaaaaaaaaaaaaaaaaDaTaTcacacacacaaPaPaPaPaPaGaaaDaPaPaPaRaRaRaRaRaPaPaPaGbHcbcbcccccccccccccdcdccccccccccccbSabababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabHbTbTcbcbcbcbcbcbcbcbcbcbcbcbcbcbbHaaaaaaaaaaaaaaaaaaaaaaaaaDaPcacacacacacacaaPaPaPaPaGaaaDaPaPaPaRaRaRaRaRaPaPaPaGbHcececfcecgcecgcececebJbJbJbJbJbJbHaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabHbJbJcechcgcecgcecgcececececececebHaaaaaaaaaaaaaaaaaaaaaaaaaDbNbObObOcicicicjaPaPaPaPaGaaaDaPaPaPaRaRaRaRbZaPaPaPaGbHbJbJckbJbJbJbJbJbJbJclbJclbJclbJbHaaaaaaaa
+aaaaaaaaaaaaabababababababababababababaabHbJbJbJcmcncmcncmcobJclbJclbJclbJbHaaaaaaaaaaaaaaaaaaaaaaaaaDbXaPaPaPaPaPaPbYaPaPaPaPaGaaaDaPaPaPaRaRaRaRaRaPaPaPaGbHbJbJbJbJbJbJcpcpbJcqcqbJcrbJbJbJbHaaaaaaaa
+aaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaabaabHbHbHbJbJbJbJbJcsbJctcocucocucocobHaaaaaaaaaaaaaaaaaaaaaaaaaDaPaTaTcaaPcaaPaPaPaPaPaPaGaaaDaPaPcvcwaRaRaRaRaPaPaPaGbHbJbJbJbJcqcqbJbJcqcqbJbJbJcpbJcrbHaaaaaaaa
+aaaaaaaaaaaaabaacxcycycycycycycycxaaabaaaaaabHbJcsbJbJbJbJbJbJbJbJbJcqcqcqbHaaaaaaaaaaaaaaaaaaaaaaaaaDaPcacacacaaPaPaPaPaPaPaPaGaaaDaPaPaPaRaRaRaRaRaPaPaPaGbHbJbJbJbJbJcqcqcqcqbJbJbJbJbJcqbJbHaaaaaaaa
+aaaaaaaaaaaaabaacyczczczczczczczcyaaabaabHbHbHbJbJbJbJcmbJbJbJbJbJbJcscqcqbHaaaaaaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaPaPaPaPaPaGaaaDaPaPaPaRcAcBcCbGaPaPaPaGbHbUbJbJbJbJbJcrbJbJbJbJbJcqcqcqbJbHaaaaaaaa
+aaaaaaaaaaaaabaacDcEcEcEcEcEcEcEcDaaabaabHaiaibJbJbJbJbJbJbJbJbJbJbJbJcqcqbHaaaaaaaaaaaaaaaaaaaaaaaaaDaPaPaWaPaPaPaTaPaPaPaPaPaGaaaDaPaPaPcCcBcBcwcBaPaPaPaGbHbJbJbJbJbJbJbJbJbJbJbJcqcqbJcpbJbHaaaaaaaa
+aaaaaaaaaaaaabaacEcFcGcGcHcGcGcIcEaaabaabHcbcbbJbJbJcmbJbJbJcsbJbJbTbJcqcqbHaaaaaaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPcaaTaPaPaPaPaPaGaaaDaPbnaPaRaRaRaRaRaPaPaPaGbHbTbTbJbJbJbJbJbJbJbJbJbJbJbJbJbJbHaaaaaaaa
+aaaaaaaaaaaaabaacJcKcLcLcLcLcLcMcIaaabaabHcecNbTbJcObJbJbJbJbJbJbTbTbTcqcqbHaaaaaaaaaaaaaaaaaaaaaaaaaDaPaPaPaPcacacaaPaPaPaPaPaGaaaDaPaPaPaRaRaRcwcwaPaPaPaGbHbTbTbHbHbHbHbHbHbHbHbHbHbHbHbHbHbHaaaaaaaa
+aaaaaaaaaaaaabaacPcLakakcQcRcLcSbwaaabaabHbUbTbTbJbJbJbJbJbJbJbJbJbJbJbJbJbHaaaaaaaaaaaaaaaaaaaaaaaaaDbNbObObObOcicjaPaPaPaPaPaGaaaDaPaPaPaRaRaRaRaRaPaPaPaGbHbTbTbHbHbHaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabaacLcLcTcLcTcUcLcLcVaaabaabHbUbUbHbHbHbHbHbHbHbHbHbHbHbHbHbHbHaaaaaaaaaaaaaaaaaaaaaaaaaDbXaPaPaPaPaPbYaPcaaPaPaTaGaaaDaPaPbncAaRaRaRaRaPaPaPaiaibTbTaiaiaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabaacLcWcWaicLcTaicLcVaaabaabHbTbTbHaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPcacacacacaaTaTaGaaaDaPaPcXaRbkaRaRaRaPaPaPaEaEbTbTaEaEaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabaacYcZcZdadadbdadabwaaabaabHbTbTbHaDaiaiaiaiaiaiaiaiaiaiaidcaiaiaiaiaiaiaiaidcaiaiaiaiaiaPaPaPaPcacacacacacaaPaPaGaaaDaPaPaPaRaRaRaRbGbAaWaWaKaKaPcaaKaKaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabaaaaaaaaaaaabmbmaaaaaaabaabHbJbTbHaDaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaEaTaPaPaPaPcaddcicicibObPaGaaaDaPaPaPaRaRaRdebGaPbsbrbsbrbsaWaPaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabababababababbmbmababababaabHbJbJbHaDdfdgdgdhaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaPaPaPaPaPaPbXaPaPaPaPbYaGaaaDaPaPaPaRaRaRbEbCaPbsbsbsbrbrbrbmaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaazaBaiaiaBbmbmaBdcaiaiaiaibJbJaiaibLdibLdjdjbLbLbLbLbLbLbLdjdjbLbLbLbLbLbLbLdjdjbLbLbMaPaPaPaPaPaPaPaPaPaPaPaPaGaaaDaPaPaPaPaPaWbBbBbBaPaPaPaPaPaPaPaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaDdkdlaIaIdmdmaIaEaEaEaEaEbJbJaEaEbVbVbVdndnbVbVbVbVbVbVbVdndnbVbVbVbVbVbVbVdodobVbVbWaPaPaPaRaRaRaRaRaRaRaPaPaGaaaDaPaPaPaPaPaWbBbBaWaPaPdpbIbJbJbIbIbHaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaDdgaKdqdraKdsdtdudvdwdxdubmbmdydzaKaKaKaKaKaKdAaKaKaKaKaKaKaKaKdAaKaKaKaKaKaKaKaKaKaKaPaPaPaRaRaRaRaRaRaRaPaPaGaaaDaPaPbnaPaPaPaPaPaPaPaPaGbHbJbJbHbHbHbHbHbHbHbHbHbHbHbHbHbHbHaaaaaaaa
+aaaaaaaaaaaaaaaaaDcXbmdBaPaPcXbmdCbmbmbmbmbmbmbmbAaPaPaPaPaPaPaPaPaPaPaPaPaPaPaRaRaRaRaRaRaRaRaRaRbkaRaRaRaRaRaRaRaRaRaRaRaRaPaGaaaDaPaPaPaPaPaPaPaPaPaPaPaGbHbJbJaiaiaiaiaiaiaiaiaiaiaiaiaiaibHaaaaaaaa
+aaaaaaaaaaaaaaaaaDcXbmbmbmbmbmbmbmbmbmbwbEbEbEbGaRaRaRaRaRaRaRaRaRaRaRaRaRaRaPaRaRaRaRaRaRaRaRaRaRaRaRbkbkaRaRaRaRaRaRaRaRaRaPdDaidEaPaPaPaPaWaPbnaPaPaPaPaGbHbJbJcbcbcbcbcbcbcbcbcbcbcbcbcbcbbHaaaaaaaa
+aaaaaaaaaaaaaaaaaDcXbmbwbmbsdFbmbmbmbrbmbEbEbEbGaRaRdGaRaRaRaRaRbkaRaRbuaRaRaPaRaRaRbubEbEbEbEaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaPdHaEdIaPaPaPaPaPaPaPaPaPaPaPaGbHbJbJcececgcecgcececececececececebHaaaaaaaa
+aaaaaaaaaaaaaaaaaDdJbsbmbwbsbmbmbmbmbsbmbEbGaRaRcwaRaRaRaRaRaRaRaRaRaRaRaRaRaPaRaRaRaRaRaRbEbEbEbEaRaRaRaRaRaRaRaRaRaRaRaRaRaPaPcaaQaPaPaPaPaPaPaPaPaPaPaPaGbHbJbJbJbJbJbJbJbJbJbJclbJclbJclbJbHaaaaaaaa
+aaaaaaaaaaaaaaaaaDdJbsbmbmbmbmbzbzbmbmbmbGcwdGcwaRaRaRaRaRaRaRaRaRaPaPaPaPaPaPbuaRaRaRaRaRaRaRbEbEaRaRaRaRaRaRaRaRaRaRaRaRaRaPcacaaPaPaPaRaRaRaRaRaRaRaPaPaGbHbJbJbJdKbJbJbJbJcqcqbJbJbJcpbJbJbHaaaaaaaa
+aaaaaaaaaaaaaaaaaDdJbsbmdCbmbmbmbzbzbsbsbGaRaRaRaRaRaRaRaRaRbfaRaRaPaPaPaTaTaPaPaPdLdLaPaPaPaPaPbqaPaPbkaRaRaRaRaRaRaRaRaRaRaPaPcaaPaPaPaPaPaPaPaPaPaPaPaPaGbHbJbJbJbJbJbJcrbJbJcqcqbJbJbJbJbJbHaaaaaaaa
+aaaaaaaaaaaaaaaaaDdJbrbsbmdMdMdMdMbmbsbsbEbGaRcwbGaRaRaRaRbkaRaRaRaPaPaPaPaTaPaPbmbwbmaWaWaPbqbqaPaPaPaRaRaRaRaRaRaRaRaRaRaRdNaPcaaPaPaRaRaPaPaPaPaPaPaRaPaGbHbJcqbJbJcrbJbJbJdKbJbJcqcqcqbJbJbHaaaaaaaa
+aaaaaaaaaaaaaaaaaDdJbsbsbmdMdOdMdMbmbsbsbEbEbEbGaRaRaRaRaRaRaRaRaRaRaRaRaPaPdPbmbsbsbrbsaWdLaPaPaPaPaPaRaRaRaRdQaRaRaRaRaRaRaPaPaPaPaPaRaRaPaPaPaTaPaPaRaPaGbHbJcqcqbJbJbJbJbJbJbJbJbJbJcqbJbJbHaaaaaaaa
+aaaaaaaaaaaaaaaaaDdJbsbsbmdMdMdMdMdCdCbmbEbEbEbEbEbGaRaRaRaRaRaRaRaRbkaRaPbqdLbmbrbsbsbsbsdLaPaPaPaPaPaRaRaRaRaRaRaRaRaRaRaRaPaPaPaPaPaRaRaPaTaPaPaPaPaRaPaGbHbJbJcqcqcqcqbJbJbJbJcrbJbJbJbJbJbHaaaaaaaa
+aaaaaaaaaaaaaaaaaDcXbmbsbmdMdMdMdMbmdCbmbEbEbEbEbEbEbGaRaRaRaRaRaRaRaRaRaPaPaPbmbsbsbrbsbsbmbmbmaTaPaPaRaRaRaRaRaRaRaRaRaRaRaPaPaPaPaPaRaRaPaPaTaPaPaPaRaPaGbHbJcpbJbJbJbJbJbJbJbJbJbJbJbJbJbJbHaaaaaaaa
+aaaaaaaaaaaaaaaaaDcXbmbsbmdMdMdMdMbmbsbmbEbEbEbEbGaRaRaRaRaRaRaRaRaPaPaPaPaPaPaPdRbsbsbmbwbmbmaPaTaTaPaRaRaRaRaRaRaRaRaRaRaRdNaPaPaPaPaRaRaPaTaTaPaTaPaRaPaGbHbHbHbHbHbHbHbHbHbHbHbHbHbHbHbHbHbHaaaaaaaa
+aaaaaaaaaaaaaaaaaDcXbmbmbmdSdMdMdMbmbsbmbEbEbEbGcwcwaRaRaRaRaRaRaRaPaPaPaPaTdLdTaPbmbwbmdUdLaPaPaPaPaPaRaRaRaRaRaRaRaRaRaRaRaPcacaaPaPaRaRaTaPaTaTaPaPaRaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaDcXbmbmbmbmbmbmdVbwbmbmbEbEbEbGaRaRaRaRbkaRaRaRaRaPaPaTaTaPaPaPaPdLdLaPaPaRaRaRaRaPaPaRaRaRaRaRaRaRaRaRaRaRaPcacaaPaPaRaRaPaPaTaPaPaPaRaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaDcXbmbmbmbmbmbmbmbmbmbmbCbEbEbEbGaRcwaRaRaRaRaRaRbnaPaTaPaPaPbqaPaPaPaPaPaRaRaRaRaPaPbfaRaRaRaRaRaRaRaRaRaRaPdpbIbKaPaPaPaPaTaPaPaPaPaPaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaDcXbmbmbmbrbsbsbsbrbsbmbEbEbCbEbGcwcwaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRbuaRaPaRaRaRaRaRaRaRaRaRaRaRaPaGaaaDaPaPaPaPaPaPaTaPaPaPaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaDbmbzbzbmbmbsbrbrbrbmbmbEbEbEbGaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaPaRaRaRaRaRaRaRaRaRaRaRaPaGaaaDaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaDbzbzbzbmbmbsbsbsbsbwbsbmbmbmbAdWaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPbnaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaGaaaDaPaPaPaPaPaPaPaPaPaPaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaabHbIbIbIbIbIbIbIbIbIbIbIbKaaaaaaaaaPaPaPaPaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPaPaPaPaaaaaaaaaGbIbIbIbIbIbIbIbIbIbIbIbHaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaDaiaidcaiaPaPaPaPaiaiaidXdYdYdYdYdYdYdYdYdYdYdYdYdYdYdYdYdYdYdYdZaiaiaiaiaPaPaPaPaiaiaiaiaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaDaEaEaEaEaPaPaPaPaEaEaEeaebecedebeeececebefedefebecececefebedefegaEaEaEaEaPaPaPaPaEaEaEaEaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaDaKaKaKaKaPaPaPaPaKdAaKeheieieieieieieieieieieieieieieieieieieiejaKaKaKaKaPaPaPaPaKaKaKaKaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaDaPaPaRaRaPaRaRaRaRaPaPaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKdgdgaKaKaPaWaWaRbEbEbEbEbuaRaPaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaDaPaPaRaRaTaRaRaRaRaPaPaWaWaWaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPbqbsbsbEbEbEbEbEbuaRaPaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaDaPaPaRaRaPaRaRaRaRaPaPaPaPaPaPaPaPaTaTaTaPaPaPaPaPaPaPaPaPaPaPaPaWaPaPbEbEbEaRbuaRaRaPaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaDaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPaPbqaPaPaPaPaPaPaGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

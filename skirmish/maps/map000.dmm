@@ -1,0 +1,158 @@
+"aa" = (/turf/grass,/area)
+"ab" = (/obj/markers/rain_spawn,/turf/grass,/area)
+"ac" = (/turf/terrain/tombstone,/turf/grass,/area)
+"ad" = (/turf/terrain/details/red_flowers,/turf/grass,/area)
+"ae" = (/turf/terrain/tree,/turf/grass,/area)
+"af" = (/obj/markers/dense,/turf/grass,/area)
+"ag" = (/obj/barricade/barrel,/turf/grass,/area)
+"ah" = (/turf/terrain/details/grass_sprouts,/obj/markers/rain_spawn,/turf/grass,/area)
+"ai" = (/turf/terrain/grass_edges/e6,/turf/dirt,/area)
+"aj" = (/turf/terrain/grass_edges/e5,/turf/dirt,/area)
+"ak" = (/turf/terrain/grass_edges/e7,/turf/dirt,/area)
+"al" = (/turf/terrain/grass_edges/e8,/turf/dirt,/area)
+"am" = (/turf/terrain/grass_edges/e2,/turf/dirt,/area)
+"an" = (/turf/dirt,/area)
+"ao" = (/obj/hazard/fire,/obj/markers/rain_spawn,/turf/grass,/area)
+"ap" = (/turf/terrain/grass_edges/e6,/obj/markers/rain_spawn,/turf/dirt,/area)
+"aq" = (/turf/terrain/grass_edges/e5,/obj/markers/rain_spawn,/turf/dirt,/area)
+"ar" = (/turf/terrain/details/grass_sprouts,/turf/grass,/area)
+"as" = (/obj/hazard/portal,/turf/grass,/area)
+"at" = (/turf/terrain/grass_edges/e3,/turf/dirt,/area)
+"au" = (/turf/terrain/grass_edges/e4,/turf/dirt,/area)
+"av" = (/turf/terrain/grass_edges/e3,/obj/markers/rain_spawn,/turf/dirt,/area)
+"aw" = (/obj/markers/rain_spawn,/turf/dirt,/area)
+"ax" = (/turf/terrain/details/bottle,/turf/grass,/area)
+"ay" = (/turf/terrain/details/bottle,/obj/markers/rain_spawn,/turf/dirt,/area)
+"az" = (/turf/terrain/grass_edges/e2,/obj/markers/rain_spawn,/turf/dirt,/area)
+"aA" = (/turf/terrain/grass_edges/e1,/obj/markers/rain_spawn,/turf/dirt,/area)
+"aB" = (/turf/terrain/grass_edges/e1,/turf/dirt,/area)
+"aC" = (/turf/terrain/grass_edges/e4,/obj/markers/rain_spawn,/turf/dirt,/area)
+"aD" = (/obj/markers/dense,/turf/terrain/details/bottle,/turf/grass,/area)
+"aE" = (/obj/markers/dense,/turf/terrain/grass_edges/e6,/turf/dirt,/area)
+"aF" = (/obj/markers/dense,/turf/terrain/grass_edges/e5,/turf/dirt,/area)
+"aG" = (/obj/mount/giraffe,/turf/grass,/area)
+"aH" = (/turf/terrain/gothic_fence,/turf/grass,/area)
+"aI" = (/turf/terrain/gothic_gate,/obj/markers/dense,/turf/grass,/area)
+"aJ" = (/turf/terrain/grass_edges/e8,/turf/terrain/gothic_fence,/turf/dirt,/area)
+"aK" = (/turf/terrain/grass_edges/e1,/turf/terrain/gothic_fence,/turf/dirt,/area)
+"aL" = (/turf/terrain/grass_edges/e5,/obj/barricade/barrel,/turf/dirt,/area)
+"aM" = (/turf/terrain/hedge_l,/turf/grass,/area)
+"aN" = (/turf/terrain/hedge,/turf/grass,/area)
+"aO" = (/turf/terrain/effects/cloud,/obj/hazard/fire,/turf/grass,/area)
+"aP" = (/turf/terrain/details/blue_flowers,/turf/grass,/area)
+"aQ" = (/turf/terrain/effects/cloud,/turf/dirt,/area)
+"aR" = (/turf/terrain/tree,/obj/hazard/fire,/turf/grass,/area)
+"aS" = (/turf/road,/area)
+"aT" = (/turf/terrain/newspaper,/turf/grass,/area)
+"aU" = (/turf/terrain/effects/cloud,/turf/grass,/area)
+"aV" = (/turf/terrain/tombstone,/obj/markers/rain_spawn,/turf/grass,/area)
+"aW" = (/turf/terrain/details/red_flowers,/obj/markers/rain_spawn,/turf/grass,/area)
+"aX" = (/turf/terrain/grass_edges/e3,/obj/markers/rain_spawn,/mob/dummy,/turf/dirt,/area)
+"aY" = (/obj/markers/rain_spawn,/mob/dummy,/turf/grass,/area)
+"aZ" = (/turf/terrain/effects/cloud,/obj/markers/rain_spawn,/mob/dummy,/turf/grass,/area)
+"ba" = (/turf/terrain/details/blue_flowers,/obj/markers/rain_spawn,/turf/grass,/area)
+"bb" = (/turf/terrain/effects/cloud,/obj/markers/dense,/turf/grass,/area)
+"bc" = (/turf/terrain/details/bottle,/obj/markers/rain_spawn,/turf/grass,/area)
+"bd" = (/turf/terrain/grass_edges/e8,/obj/markers/rain_spawn,/turf/dirt,/area)
+"be" = (/turf/terrain/grass_edges/e2,/obj/markers/rain_spawn,/mob/dummy,/turf/dirt,/area)
+"bf" = (/obj/markers/rain_spawn,/mob/dummy,/turf/dirt,/area)
+"bg" = (/turf/terrain/grass_edges/e7,/obj/markers/rain_spawn,/turf/dirt,/area)
+"bh" = (/turf/terrain/effects/cloud,/obj/markers/rain_spawn,/turf/grass,/area)
+"bi" = (/mob/dummy,/turf/grass,/area)
+"bj" = (/turf/terrain/grass_edges/e6,/obj/markers/rain_spawn,/mob/dummy,/turf/dirt,/area)
+"bk" = (/turf/terrain/pentagram,/turf/terrain/details/blue_flowers,/turf/grass,/area)
+"bl" = (/turf/terrain/details/bottle,/turf/terrain/details/red_flowers,/turf/grass,/area)
+"bm" = (/obj/hazard/fire,/turf/grass,/area)
+"bn" = (/turf/terrain/effects/cloud,/turf/terrain/details/red_flowers,/turf/grass,/area)
+"bo" = (/turf/terrain/effects/cloud,/turf/terrain/grass_edges/e2,/obj/markers/rain_spawn,/turf/dirt,/area)
+"bp" = (/turf/terrain/hedge_r,/turf/grass,/area)
+"bq" = (/turf/terrain/grass_edges/e2,/turf/terrain/details/bottle,/obj/markers/rain_spawn,/turf/dirt,/area)
+"br" = (/turf/terrain/details/red_flowers,/turf/terrain/details/red_flowers,/turf/grass,/area)
+"bs" = (/turf/terrain/details/blue_flowers,/turf/terrain/details/red_flowers,/obj/markers/rain_spawn,/turf/grass,/area)
+"bt" = (/turf/terrain/details/blue_flowers,/turf/terrain/details/blue_flowers,/turf/grass,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaacaaaaaaaaaaaaaaababababacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaadaaaaaaaaaaaaaaababababadaaaaaaaaacaaaaaaaaaaaaaaaaaaaaaaaaacaaaaaaaaaa
+aaaaaaaeaaafafaaaeaaafafababababaaaaaaaaaaaaagaeaaafafaaaaaaaaaaaaaaadaaaaaaaaaa
+aaaaaaaaaaaaaaacaaaaaaaaababahabaaaaaaaaaaaiajajajajajajajakaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaagadaaaaaaaaahabababaaaeaaafafalamamamamananananajajajajajakaaaaaaaa
+aeaaafafaaaaabaoabababahahapaqaqakaaaraaaaaaaaasacaaatananananananananauaaaaaaaa
+aaaaaaacaaaaaaaaaaaaaaaaabavawawauaaararaaaaaraaadaaatananananananananauaaaaaaaa
+aaaaaaaaaaaxaeaaafafacabapayazazaAabababababaharaaaaalamamamamamamamamaBaaaraaaa
+aaaeaaafafaaaaaaaraaaaabavaCabababababababababaaababababababaaaaaeaaafafaaaaaaaa
+aaaaaaaaaaaraaaaaaaaaaaaatauaaaaaaaaaaacaeaaafafabababababahaaaaacaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaalaBaaaaaaaaaaadaaaaaaaaaeaaafafaaaaaaaaadaaaaaaaaaaaaaa
+aaaaaraaaaaaacaaaxaaaaaaaaaaaaaaaaafafaDafaEaFajakaaacaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaatananauaaaaaaaaaaaaaaaaacaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaGaaaaaaaaaaaaaaaaaaaaaaaaalamanauaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aHaHaHaHaHaHaHaHaHaHaHaHaHaHaIafafafaHaHaHaHaHaJaKaHaHaHaHaHaHaHaHaHaHaHaHaHaHaH
+aaaeaaafafaaadaaadaraaaaaiaLajajakaaaMaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNaN
+aaaOaaaPaPasaaaaaaaaaraaatanaQanauaaaaaaaaaaaaaaaxaPaaaaaaaaaRaaafafaaaaaaaaaaaS
+aaaTaaaPaaaaacaUabaVaWabaXawawawaCaYababaZabaYabababbabaabaaaaaaaaaeaaafbbaaaaaS
+aabaababaWababababababbcbdbeazazbfaqaqaqbgabababaYababbhabaaaaaaaaaaaraaaaaaaaaS
+aUabababahabababababababababababbdazbeazaAaYababababaYababaaaaaaaragaaaaaaaaaaaS
+aaaWaWbcababababaUaaaaaabiaraabiaaaaaaaUbiababbjaqaqakaaaaaaaaaaagagaaaaaaaaaaaS
+aaaaadaPaabkaaaaaaaaaaaraaadadaablaaaPaPaaababavawawauaaaaaaaPaPaPaUaaaaaaaaaaaS
+aaaaaaaaaaadadaaaaaabmaaaaaabnadadadadaaaaapaqawawboaBaaaaaraaaPaPaaaaaaaaaaaaaS
+aNaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNaNbpaabdazbqaAabaaaaaaaPaPaaaaaaaaaaaraaaaaS
+aaaaaaaaaaaeaaafafaaaaaaaaaaaaaaaaaaagagaaabababahabaaaaaaaaaaaaaaaaaraaaaaaaaaS
+aaaeaUafafaaaaaaaaaaaaaaaaaUaaaaaaaaaaaaaaabababababaaaaaUaaaaaaaraaaraaaaaaaaaS
+aaaaaaaeaaafafaaaaaaaaaeaaafafaaaaaaaaaUaraaaeaaafafaaaaaaaaaaaaaaarasaUaaaaaaaS
+aaaaaaaaaaaaaaaUaaaaaxaaaaaaaaaPaPaaaaaaaabradadaaaaaaaraaaaaaaaaaaaaaaaaaaaaaaS
+aUaaaaararaaaaaaaaabababbabababsaWbaababababbtaPaaaaaaaeaaafafaaaaaeaaafafaaaaaS
+aaaaaaaaararaaaaaaaaaaabababaWababababababababbabaaPaaaaaaaaaaaaaaaaaaaaaaaaaaaS
+aaaaaaaaaaaaaeaaafafaaaaaraaaaaaaaaaaaaaaaaaaaaradaaaaaaaaaeaaafafaaaaaaaaaaaaaS
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaaafafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaS
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaraaaaaaaaaaaaaeaaafafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaS
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaS
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaS
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaS
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaS
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

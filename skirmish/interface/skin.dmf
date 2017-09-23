@@ -1,0 +1,778 @@
+macro "lobby"
+	elem 
+		name = "F1"
+		command = "toggle-fullscreen"
+
+macro "play"
+	elem 
+		name = "Return"
+		command = "pause-game"
+	elem 
+		name = "Space"
+		command = "toggle-secondary-down"
+	elem 
+		name = "Space+UP"
+		command = "toggle-secondary-up"
+	elem 
+		name = "West"
+		command = "twest"
+	elem 
+		name = "West+UP"
+		command = "twest-up"
+	elem 
+		name = "North"
+		command = "tnorth"
+	elem 
+		name = "North+UP"
+		command = "tnorth-up"
+	elem 
+		name = "East"
+		command = "teast"
+	elem 
+		name = "East+UP"
+		command = "teast-up"
+	elem 
+		name = "South"
+		command = "tsouth"
+	elem 
+		name = "South+UP"
+		command = "tsouth-up"
+	elem 
+		name = "A"
+		command = "west"
+	elem 
+		name = "A+UP"
+		command = "west-up"
+	elem 
+		name = "D"
+		command = "east"
+	elem 
+		name = "D+UP"
+		command = "east-up"
+	elem 
+		name = "E"
+		command = "interact"
+	elem 
+		name = "F"
+		command = "use-class-ability"
+	elem 
+		name = "R"
+		command = "reload"
+	elem 
+		name = "S"
+		command = "south"
+	elem 
+		name = "S+UP"
+		command = "south-up"
+	elem 
+		name = "W"
+		command = "north"
+	elem 
+		name = "W+UP"
+		command = "north-up"
+	elem 
+		name = "F1"
+		command = "toggle-fullscreen"
+	elem 
+		name = "F2"
+		command = ".screenshot"
+	elem 
+		name = "F3"
+		command = ".gamepad-setup"
+	elem 
+		name = "SHIFT"
+		command = "sprint"
+	elem 
+		name = "GamepadFace1"
+		command = "tsouth"
+	elem 
+		name = "GamepadFace1+UP"
+		command = "tsouth-up"
+	elem 
+		name = "GamepadFace2"
+		command = "teast"
+	elem 
+		name = "GamepadFace2+UP"
+		command = "teast-up"
+	elem 
+		name = "GamepadFace3"
+		command = "twest"
+	elem 
+		name = "GamepadFace3+UP"
+		command = "twest-up"
+	elem 
+		name = "GamepadFace4"
+		command = "tnorth"
+	elem 
+		name = "GamepadFace4+UP"
+		command = "tnorth-up"
+	elem 
+		name = "GamepadL1"
+		command = "interact"
+	elem 
+		name = "GamepadR1"
+		command = "reload"
+	elem 
+		name = "GamepadL2"
+		command = "toggle-secondary-down"
+	elem 
+		name = "GamepadL2+UP"
+		command = "toggle-secondary-up"
+	elem 
+		name = "GamepadR2"
+		command = "sprint"
+	elem 
+		name = "GamepadUp"
+		command = "north"
+	elem 
+		name = "GamepadUp+UP"
+		command = "north-up"
+	elem 
+		name = "GamepadDown"
+		command = "south"
+	elem 
+		name = "GamepadDown+UP"
+		command = "south-up"
+	elem 
+		name = "GamepadLeft"
+		command = "west"
+	elem 
+		name = "GamepadLeft+UP"
+		command = "west-up"
+	elem 
+		name = "GamepadRight"
+		command = "east"
+	elem 
+		name = "GamepadRight+UP"
+		command = "east-up"
+	elem 
+		name = "GamepadUpLeft"
+		command = "north\nwest"
+	elem 
+		name = "GamepadUpLeft+UP"
+		command = "north-up\nwest-up"
+	elem 
+		name = "GamepadDownLeft"
+		command = "south\nwest"
+	elem 
+		name = "GamepadDownLeft+UP"
+		command = "south-up\nwest-up"
+	elem 
+		name = "GamepadUpRight"
+		command = "north\neast"
+	elem 
+		name = "GamepadUpRight+UP"
+		command = "north-up\neast-up"
+	elem 
+		name = "GamepadDownRight"
+		command = "south\neast"
+	elem 
+		name = "GamepadDownRight+UP"
+		command = "south-up\neast-up"
+	elem 
+		name = "GamepadRightAnalog"
+		command = "use-weapon-stick [[x]] [[y]]"
+
+macro "spectate"
+	elem 
+		name = "E"
+		command = "SpecNew"
+	elem 
+		name = "F1"
+		command = "toggle-fullscreen"
+	elem 
+		name = "F2"
+		command = ".screenshot"
+	elem 
+		name = "F3"
+		command = ".gamepad-setup"
+
+macro "textinput"
+	elem 
+		name = "Back"
+		command = "key-down BACKSPACE"
+	elem 
+		name = "Return"
+		command = "enter-submit"
+	elem 
+		name = "Space"
+		command = "key-down \" \""
+	elem 
+		name = "0"
+		command = "key-down 0"
+	elem 
+		name = "1"
+		command = "key-down 1"
+	elem 
+		name = "2"
+		command = "key-down 2"
+	elem 
+		name = "3"
+		command = "key-down 3"
+	elem 
+		name = "4"
+		command = "key-down 4"
+	elem 
+		name = "5"
+		command = "key-down 5"
+	elem 
+		name = "6"
+		command = "key-down 6"
+	elem 
+		name = "7"
+		command = "key-down 7"
+	elem 
+		name = "8"
+		command = "key-down 8"
+	elem 
+		name = "9"
+		command = "key-down 9"
+	elem 
+		name = "A"
+		command = "key-down a"
+	elem 
+		name = "B"
+		command = "key-down b"
+	elem 
+		name = "C"
+		command = "key-down c"
+	elem 
+		name = "D"
+		command = "key-down d"
+	elem 
+		name = "E"
+		command = "key-down e"
+	elem 
+		name = "F"
+		command = "key-down f"
+	elem 
+		name = "G"
+		command = "key-down g"
+	elem 
+		name = "H"
+		command = "key-down h"
+	elem 
+		name = "I"
+		command = "key-down i"
+	elem 
+		name = "J"
+		command = "key-down j"
+	elem 
+		name = "K"
+		command = "key-down k"
+	elem 
+		name = "L"
+		command = "key-down l"
+	elem 
+		name = "M"
+		command = "key-down m"
+	elem 
+		name = "N"
+		command = "key-down n"
+	elem 
+		name = "O"
+		command = "key-down o"
+	elem 
+		name = "P"
+		command = "key-down p"
+	elem 
+		name = "Q"
+		command = "key-down q"
+	elem 
+		name = "R"
+		command = "key-down r"
+	elem 
+		name = "S"
+		command = "key-down s"
+	elem 
+		name = "T"
+		command = "key-down t"
+	elem 
+		name = "U"
+		command = "key-down u"
+	elem 
+		name = "V"
+		command = "key-down v"
+	elem 
+		name = "W"
+		command = "key-down w"
+	elem 
+		name = "X"
+		command = "key-down x"
+	elem 
+		name = "Y"
+		command = "key-down y"
+	elem 
+		name = "Z"
+		command = "key-down z"
+	elem 
+		name = "F1"
+		command = "toggle-fullscreen"
+	elem 
+		name = "F2"
+		command = ".screenshot"
+	elem 
+		name = "F3"
+		command = ".gamepad-setup"
+	elem 
+		name = "F4"
+	elem 
+		name = "SHIFT"
+		command = "key-down SHIFT"
+	elem 
+		name = "SHIFT+UP"
+		command = "key-up SHIFT"
+	elem 
+		name = "GamepadFace1"
+	elem 
+		name = "GamepadFace2"
+	elem 
+		name = "GamepadR1"
+	elem 
+		name = "GamepadUp"
+	elem 
+		name = "GamepadDown"
+	elem 
+		name = "GamepadLeft"
+	elem 
+		name = "GamepadRight"
+
+macro "vendor"
+	elem 
+		name = "Return"
+		command = "Controller-Interact"
+	elem 
+		name = "West"
+		command = "Controller-Scroll-Left"
+	elem 
+		name = "North"
+		command = "Controller-Scroll-Up"
+	elem 
+		name = "East"
+		command = "Controller-Scroll-Right"
+	elem 
+		name = "South"
+		command = "Controller-Scroll-Down"
+	elem 
+		name = "A"
+		command = "Controller-Scroll-Left"
+	elem 
+		name = "D"
+		command = "Controller-Scroll-Right"
+	elem 
+		name = "E"
+		command = "Controller-Interact"
+	elem 
+		name = "S"
+		command = "Controller-Scroll-Down"
+	elem 
+		name = "W"
+		command = "Controller-Scroll-Up"
+	elem 
+		name = "GamepadFace1"
+		command = "Controller-Interact"
+	elem 
+		name = "GamepadFace2"
+		command = "Controller-B"
+	elem 
+		name = "GamepadR1"
+		command = "Controller-Interact"
+	elem 
+		name = "GamepadUp"
+		command = "Controller-Scroll-Up"
+	elem 
+		name = "GamepadDown"
+		command = "Controller-Scroll-Down"
+	elem 
+		name = "GamepadLeft"
+		command = "Controller-Scroll-Left"
+	elem 
+		name = "GamepadRight"
+		command = "Controller-Scroll-Right"
+
+
+window "adminCP"
+	elem "adminCP"
+		type = MAIN
+		pos = 281,0
+		size = 160x160
+		anchor1 = none
+		anchor2 = none
+		background-color = #272727
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "admin"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+		can-scroll = vertical
+	elem "info1"
+		type = INFO
+		pos = 0,0
+		size = 160x160
+		anchor1 = 0,0
+		anchor2 = 100,100
+		text-color = #f9f9f9
+		background-color = #272727
+		drop-zone = false
+		saved-params = ""
+		highlight-color = #ffb833
+		tab-text-color = #e5e5e5
+		tab-background-color = #151515
+		multi-line = false
+
+window "chatwindow"
+	elem "chatwindow"
+		type = MAIN
+		pos = 281,0
+		size = 392x171
+		anchor1 = none
+		anchor2 = none
+		background-color = #151515
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "chat"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "mapinput"
+		type = INPUT
+		pos = 0,142
+		size = 392x29
+		anchor1 = 0,83
+		anchor2 = 100,100
+		font-family = "Thin Pixel-7"
+		font-size = 9
+		text-color = #e5e5e5
+		background-color = #272727
+		border = line
+		saved-params = ""
+		command = "lobby-chat"
+	elem "mapchat"
+		type = OUTPUT
+		pos = 0,0
+		size = 392x142
+		anchor1 = 0,0
+		anchor2 = 100,83
+		font-family = "Thin Pixel-7"
+		font-size = 14
+		text-color = #e5e5e5
+		background-color = #151515
+		is-default = true
+		border = line
+		saved-params = "max-lines"
+
+window "debugwindow"
+	elem "debugwindow"
+		type = MAIN
+		pos = 281,0
+		size = 304x224
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Debug Panel"
+		statusbar = false
+	elem "tab1"
+		type = TAB
+		pos = 0,24
+		size = 304x200
+		anchor1 = 0,11
+		anchor2 = 100,100
+		text-color = #e5e5e5
+		background-color = #151515
+		saved-params = ""
+		current-tab = "chatwindow"
+		multi-line = false
+	elem "label3"
+		type = LABEL
+		pos = 0,0
+		size = 304x24
+		anchor1 = 0,0
+		anchor2 = 100,11
+		text-color = #ffffff
+		background-color = #000000
+		saved-params = ""
+		text = "Thank you for play testing Feed -- excuse the wet paint!"
+
+window "default"
+	elem "default"
+		type = MAIN
+		pos = 281,0
+		size = 832x640
+		anchor1 = none
+		anchor2 = none
+		is-default = true
+		saved-params = "pos;size;is-minimized;is-maximized"
+		statusbar = false
+		can-resize = false
+		icon = 'worldicon.png'
+		macro = "textinput"
+	elem "child1"
+		type = CHILD
+		pos = 0,0
+		size = 832x640
+		anchor1 = 0,0
+		anchor2 = 100,100
+		is-default = true
+		saved-params = "splitter"
+		left = "pane-map"
+		is-vert = false
+
+window "pane-lobby"
+	elem "pane-lobby"
+		type = MAIN
+		pos = 281,0
+		size = 832x640
+		anchor1 = none
+		anchor2 = none
+		background-color = #272727
+		is-default = true
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "button7"
+		type = BUTTON
+		pos = 744,604
+		size = 40x20
+		anchor1 = 89,94
+		anchor2 = 94,98
+		background-color = #ff3394
+		saved-params = "is-checked"
+		text = ""
+		command = "new-color \"#ffb6c1\""
+		group = "colors"
+	elem "button6"
+		type = BUTTON
+		pos = 544,604
+		size = 40x20
+		anchor1 = 65,94
+		anchor2 = 70,98
+		background-color = #ffffff
+		saved-params = "is-checked"
+		text = ""
+		command = "new-color \"#ffffff\""
+		group = "colors"
+	elem "button5"
+		type = BUTTON
+		pos = 784,604
+		size = 40x20
+		anchor1 = 94,94
+		anchor2 = 99,98
+		background-color = #ffb833
+		saved-params = "is-checked"
+		text = ""
+		command = "new-color \"#ffaa00\""
+		group = "colors"
+	elem "specbutton"
+		type = BUTTON
+		pos = 552,164
+		size = 72x20
+		anchor1 = 66,26
+		anchor2 = 75,29
+		font-style = "bold"
+		text-color = #4e4e4e
+		background-color = #272727
+		saved-params = "is-checked"
+		text = "Spectate"
+		command = "toggle-spectate"
+		is-flat = true
+		button-type = checkbox
+	elem "map-info"
+		type = LABEL
+		pos = 552,104
+		size = 264x40
+		anchor1 = 66,16
+		anchor2 = 98,23
+		text-color = #4e4e4e
+		background-color = #272727
+		saved-params = ""
+		text = "map info"
+		text-wrap = true
+	elem "label2"
+		type = LABEL
+		pos = 552,584
+		size = 264x20
+		anchor1 = 66,91
+		anchor2 = 98,94
+		font-style = "underline"
+		text-color = #4e4e4e
+		background-color = #272727
+		saved-params = ""
+		text = "-customize yourself-"
+	elem "button4"
+		type = BUTTON
+		pos = 704,604
+		size = 40x20
+		anchor1 = 85,94
+		anchor2 = 89,98
+		background-color = #d433ff
+		saved-params = "is-checked"
+		text = ""
+		command = "new-color \"#d433ff\""
+		group = "colors"
+	elem "button3"
+		type = BUTTON
+		pos = 664,604
+		size = 40x20
+		anchor1 = 80,94
+		anchor2 = 85,98
+		background-color = #23e157
+		saved-params = "is-checked"
+		text = ""
+		command = "new-color \"#23e157\""
+		group = "colors"
+	elem "button2"
+		type = BUTTON
+		pos = 624,604
+		size = 40x20
+		anchor1 = 75,94
+		anchor2 = 80,98
+		background-color = #145cff
+		saved-params = "is-checked"
+		text = ""
+		command = "new-color \"#145cff\""
+		group = "colors"
+	elem "button1"
+		type = BUTTON
+		pos = 584,604
+		size = 40x20
+		anchor1 = 70,94
+		anchor2 = 75,98
+		background-color = #ff3114
+		saved-params = "is-checked"
+		text = ""
+		command = "new-color \"#ff3114\""
+		group = "colors"
+	elem "input1"
+		type = INPUT
+		pos = 16,604
+		size = 520x20
+		anchor1 = 2,94
+		anchor2 = 64,98
+		text-color = #e5e5e5
+		background-color = #272727
+		border = line
+		saved-params = ""
+		command = "lobby-chat"
+	elem "lobbygrid"
+		type = GRID
+		pos = 552,184
+		size = 264x400
+		anchor1 = 66,29
+		anchor2 = 98,91
+		text-color = #e5e5e5
+		background-color = #151515
+		saved-params = ""
+		cells = 1x1
+		current-cell = 1,1
+		show-lines = horizontal
+		show-names = false
+		line-color = #272727
+		highlight-color = #000000
+	elem "game-countdown"
+		type = LABEL
+		pos = 552,16
+		size = 264x40
+		anchor1 = 66,3
+		anchor2 = 98,9
+		font-size = 14
+		font-style = "bold"
+		text-color = #c0c0c0
+		background-color = #151515
+		saved-params = ""
+		text = "Game in 30..."
+	elem "to-skip"
+		type = LABEL
+		pos = 688,164
+		size = 60x20
+		anchor1 = 83,26
+		anchor2 = 90,29
+		text-color = #4e4e4e
+		background-color = #272727
+		saved-params = ""
+		text = "0/0 to skip"
+	elem "skip-button"
+		type = BUTTON
+		pos = 628,164
+		size = 60x20
+		anchor1 = 75,26
+		anchor2 = 83,29
+		font-style = "bold"
+		text-color = #4e4e4e
+		background-color = #272727
+		saved-params = "is-checked"
+		text = "Skip"
+		command = "vote-to-skip"
+		is-flat = true
+		button-type = checkbox
+	elem "next-map"
+		type = LABEL
+		pos = 552,80
+		size = 264x24
+		anchor1 = 66,13
+		anchor2 = 98,16
+		font-size = 9
+		font-style = "bold"
+		text-color = #e5e5e5
+		background-color = #272727
+		saved-params = ""
+		text = "MAPNAME"
+	elem "label1"
+		type = LABEL
+		pos = 552,56
+		size = 264x20
+		anchor1 = 66,9
+		anchor2 = 98,12
+		font-style = "underline"
+		text-color = #4e4e4e
+		background-color = #272727
+		saved-params = ""
+		text = "-next map-"
+	elem "lobbychat"
+		type = OUTPUT
+		pos = 16,16
+		size = 520x584
+		anchor1 = 2,3
+		anchor2 = 64,94
+		text-color = #e5e5e5
+		background-color = #151515
+		saved-params = "max-lines"
+
+window "pane-map"
+	elem "pane-map"
+		type = MAIN
+		pos = 281,0
+		size = 832x640
+		anchor1 = none
+		anchor2 = none
+		is-default = true
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "map1"
+		type = MAP
+		pos = 0,0
+		size = 832x640
+		anchor1 = 0,0
+		anchor2 = 100,100
+		font-family = "UberBit7"
+		is-default = true
+		saved-params = "icon-size"
+		icon-size = 16
+		letterbox = false
+		zoom = 1
+		style = "BODY {font-family:Uberbit7;font-size:12pt;vertical-align:middle;}\n.vendor  {font-family:Uberbit7;font-size:12pt;vertical-align:middle;text-align:center;}\n.credits  {font-family:Uberbit7;font-size:12pt;vertical-align:middle;text-align:center;}\n.desc {font-size:12pt;font-family:UberBit7;}\n.big {font-size:24pt;}\n.realbig {font-size:36pt;}\n.menu {font-family:Uberbit7;font-size:5;vertical-align:middle;text-align:center;}\n.menu-big {font-family:Uberbit7;font-size:6;vertical-align:middle;text-align:center;}"
+
